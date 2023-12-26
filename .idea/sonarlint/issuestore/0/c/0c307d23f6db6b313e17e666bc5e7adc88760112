@@ -1,0 +1,11 @@
+
+i
+java:S1192"LUse already-defined constant 'DBNAME' instead of duplicating its value here.(£æ”©8¢×õ„Ê1
+^
+java:S1126%"AReplace this if-then-else statement by a single return statement.(Ö³Á8¯×õ„Ê1
+^
+java:S1126,"AReplace this if-then-else statement by a single return statement.(¡°µ°8°×õ„Ê1
+^
+java:S11265"AReplace this if-then-else statement by a single return statement.(¡°µ°8ÿø„Ê1
+V
+java:S1128	"9Remove this unused import 'androidx.annotation.Nullable'.(¾Èêš8ºåù„Ê1

@@ -1,0 +1,14 @@
+
+y
+java:S1192I"WDefine a constant instead of duplicating this literal "This field is required" 8 times.(Á©‹úÿÿÿÿ8¨½‰“Ê1
+m	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºß®Œ8©½‰“Ê1
+E
+java:S16047"(Make this anonymous inner class a lambda(ßÖãÓ8©½‰“Ê1
+F
+java:S1604€"(Make this anonymous inner class a lambda(ßÿæ8©½‰“Ê1
+m
+java:S1659"KDeclare "signupLastName" and all following declarations on a separate line.(ñ¼öÕşÿÿÿÿ8Î½‰“Ê1
+]	java:S125&"<This block of commented-out lines of code should be removed.(¿÷Ó™şÿÿÿÿ8Íİğ“Ê1
+~
+java:S1172~"aRemove these unused method parameters "firstName", "lastName", "dateOfBirth", "gender", "mobile".(ÈïçÑ8Ü½‰“Ê1
+^	java:S125ˆ"<This block of commented-out lines of code should be removed.(éÓ°¬ùÿÿÿÿ8Ş½‰“Ê1

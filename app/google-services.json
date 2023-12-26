@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441845005014",
+    "project_id": "eduapp-a8b4e",
+    "storage_bucket": "eduapp-a8b4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441845005014:android:d35dbefbeda7612cd1a777",
+        "android_client_info": {
+          "package_name": "com.example.neatnoot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABWlHxNCnhCsNh2EDsGOLUAKd7mOPkLx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
