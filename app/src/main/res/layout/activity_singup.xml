@@ -81,6 +81,25 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:text="Username*"
+            android:textColor="@color/my_primary_alternate"
+            android:padding="6dp"
+            android:textSize="16sp"
+            android:layout_marginTop="10dp"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:id="@+id/signup_username"
+            android:hint="Enter your username"
+            android:inputType="textEmailAddress"
+            android:textSize="16sp"
+            android:padding="6dp"
+            android:background="@drawable/alt_round_rectangle"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:text="Email Address*"
             android:textColor="@color/my_primary_alternate"
             android:padding="6dp"
@@ -114,7 +133,8 @@
             android:inputType="textPersonName"
             android:textSize="16sp"
             android:padding="6dp"
-            android:background="@drawable/alt_round_rectangle"/>
+            android:background="@drawable/alt_round_rectangle"
+            android:focusable="false"/>
 
         <TextView
             android:layout_width="match_parent"
@@ -166,7 +186,9 @@
             android:inputType="phone"
             android:textSize="16sp"
             android:padding="6dp"
-            android:background="@drawable/alt_round_rectangle"/>
+            android:background="@drawable/alt_round_rectangle">
+
+        </EditText>
 
         <TextView
             android:layout_width="match_parent"

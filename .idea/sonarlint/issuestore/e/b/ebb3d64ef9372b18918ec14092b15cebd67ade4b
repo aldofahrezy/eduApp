@@ -1,14 +1,29 @@
 
 y
-java:S1192I"WDefine a constant instead of duplicating this literal "This field is required" 8 times.(Á©‹úÿÿÿÿ8¨½‰“Ê1
-m	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºß®Œ8©½‰“Ê1
+java:S1192u"WDefine a constant instead of duplicating this literal "This field is required" 9 times.(Á©‹úÿÿÿÿ8òØ“²Ê1
+D
+java:S1604P"(Make this anonymous inner class a lambda(ÉÊD8óØ“²Ê1
+J
+java:S1604G"(Make this anonymous inner class a lambda(šæùÉşÿÿÿÿ8óØ“²Ê1
 E
-java:S16047"(Make this anonymous inner class a lambda(ßÖãÓ8©½‰“Ê1
+java:S1604["(Make this anonymous inner class a lambda(ßÖãÓ8óØ“²Ê1
 F
-java:S1604€"(Make this anonymous inner class a lambda(ßÿæ8©½‰“Ê1
-m
-java:S1659"KDeclare "signupLastName" and all following declarations on a separate line.(ñ¼öÕşÿÿÿÿ8Î½‰“Ê1
-]	java:S125&"<This block of commented-out lines of code should be removed.(¿÷Ó™şÿÿÿÿ8Íİğ“Ê1
-~
-java:S1172~"aRemove these unused method parameters "firstName", "lastName", "dateOfBirth", "gender", "mobile".(ÈïçÑ8Ü½‰“Ê1
-^	java:S125ˆ"<This block of commented-out lines of code should be removed.(éÓ°¬ùÿÿÿÿ8Ş½‰“Ê1
+java:S1604ç"(Make this anonymous inner class a lambda(ù¢¾8ôØ“²Ê1
+F
+java:S1604×"(Make this anonymous inner class a lambda(³™í¹8ôØ“²Ê1
+K
+java:S1199‰"-Extract this nested code block into a method.(óìÕ´8öØ“²Ê1
+h
+java:S1659&"KDeclare "signupLastName" and all following declarations on a separate line.(ÅãëŠ8æÙ“²Ê1
+Y	java:S107Ó"<Method has 8 parameters, which is greater than 7 authorized.(®é8èÙ“²Ê1
+t
+java:S3776/"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(¨Œşÿÿÿÿ8ëÙ“²Ê1
+]	java:S1254"<This block of commented-out lines of code should be removed.(¿÷Ó™şÿÿÿÿ8íÙ“²Ê1
+W
+java:S6397n"5Replace this character class by the character itself.(ıËÖúÿÿÿÿÿ8òÙ“²Ê1
+W
+java:S6397n"5Replace this character class by the character itself.(ıËÖúÿÿÿÿÿ8òÙ“²Ê1
+^
+java:S6353n"<Use concise character class syntax '\\d' instead of '[0-9]'.(ıËÖúÿÿÿÿÿ8òÙ“²Ê1
+p
+java:S3776Ó"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(®é8ùÙ“²Ê1
