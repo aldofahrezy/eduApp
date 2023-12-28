@@ -1,0 +1,13 @@
+
+E
+java:S1604K"(Make this anonymous inner class a lambda(«ÕŸ÷8­ï“ãÊ1
+m
+java:S1659"PDeclare "userProfileFullName" and all following declarations on a separate line.(Ãíà8–§ãÊ1
+f
+java:S1659"IDeclare "emailAddress" and all following declarations on a separate line.(îƒÔª8–§ãÊ1
+|
+java:S1450 "ZRemove the "authProfile" field and declare it as a local variable in the relevant methods.(âõ®Åüÿÿÿÿ8–§ãÊ1
+
+java:S1186u"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ô°¤¦8œ§ãÊ1
+T
+java:S1068"2Remove this unused "profilePicture" private field.(¦èÅŠùÿÿÿÿ8Ÿ§ãÊ1

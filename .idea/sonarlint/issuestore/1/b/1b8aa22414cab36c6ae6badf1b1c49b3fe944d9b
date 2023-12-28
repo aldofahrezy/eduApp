@@ -1,0 +1,13 @@
+
+v
+java:S1104"TMake username a static final constant or non-public and provide accessors if needed.(¾ãÇûÿÿÿÿ8ÓÅ‚ãÊ1
+y
+java:S1104"WMake dateOfBirth a static final constant or non-public and provide accessors if needed.(¾ãÇûÿÿÿÿ8ÓÅ‚ãÊ1
+t
+java:S1104"RMake gender a static final constant or non-public and provide accessors if needed.(¾ãÇûÿÿÿÿ8ÓÅ‚ãÊ1
+t
+java:S1104"RMake mobile a static final constant or non-public and provide accessors if needed.(¾ãÇûÿÿÿÿ8ÓÅ‚ãÊ1
+j
+java:S1659"HDeclare "dateOfBirth" and all following declarations on a separate line.(¾ãÇûÿÿÿÿ8×Å‚ãÊ1
+9
+java:S1116"Remove this empty statement.(û »ô8İ‚ãÊ1
